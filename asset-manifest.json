@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/SocialPilot-Task/static/css/main.b484f9a7.chunk.css",
+    "main.js": "/SocialPilot-Task/static/js/main.987f1c08.chunk.js",
+    "main.js.map": "/SocialPilot-Task/static/js/main.987f1c08.chunk.js.map",
+    "runtime-main.js": "/SocialPilot-Task/static/js/runtime-main.8e89ad61.js",
+    "runtime-main.js.map": "/SocialPilot-Task/static/js/runtime-main.8e89ad61.js.map",
+    "static/js/2.edebb4d0.chunk.js": "/SocialPilot-Task/static/js/2.edebb4d0.chunk.js",
+    "static/js/2.edebb4d0.chunk.js.map": "/SocialPilot-Task/static/js/2.edebb4d0.chunk.js.map",
+    "index.html": "/SocialPilot-Task/index.html",
+    "static/css/main.b484f9a7.chunk.css.map": "/SocialPilot-Task/static/css/main.b484f9a7.chunk.css.map",
+    "static/js/2.edebb4d0.chunk.js.LICENSE.txt": "/SocialPilot-Task/static/js/2.edebb4d0.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8e89ad61.js",
+    "static/js/2.edebb4d0.chunk.js",
+    "static/css/main.b484f9a7.chunk.css",
+    "static/js/main.987f1c08.chunk.js"
+  ]
+}
