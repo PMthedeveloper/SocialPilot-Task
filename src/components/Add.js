@@ -3,7 +3,7 @@ import {BrowserRouter as Router,Link,Route,Switch} from 'react-router-dom';
 import GPlace from "./GPlace";
 
 // API key of the google map
-const GOOGLE_MAP_API_KEY = 'AIzaSyDfL0pH1w-hHzX9nCRLex-u77rExH-U7lI';
+const GOOGLE_MAP_API_KEY = '<API-KEY>';
 
 // load google map script
 const loadGoogleMapScript = (callback) => {
